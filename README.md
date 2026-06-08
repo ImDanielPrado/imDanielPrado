@@ -15,7 +15,7 @@ Backend Engineering • System Integration • Process Automation
   <img src="https://skillicons.dev/icons?i=nodejs,typescript,postgres,docker,go" />
 </p>
 
-## About
+<h2>💼 About</h2>
 
 I build backend applications focused on reliability, maintainability and business impact.
 
@@ -25,17 +25,16 @@ Currently working with Node.js, TypeScript, PostgreSQL, Docker and Go while buil
 
 ---
 
-| Core Technologies | Areas of Interest   |
-| ----------------- | ------------------- |
-| Node.js           | Backend Engineering |
-| TypeScript        | Financial Systems   |
-| PostgreSQL        | System Integration  |
-| Docker            | Process Automation  |
-| Go                | SaaS Platforms      |
-| REST APIs         | Data Infrastructure |
+| Core Technologies |  Areas of Interest   |                
+| ----------------- |  ------------------- |
+| Node.js           |  Backend Engineering |
+| TypeScript        |  Financial Systems   |
+| PostgreSQL        |  System Integration  |
+| Docker            |  Process Automation  |
+| Go                |  SaaS Platforms      |
+| REST APIs         |  Data Infrastructure |
 
 ---
-
 | Engineering Principles         | Current Focus         |
 | ------------------------------ | --------------------- |
 | Build solutions, not tutorials | Backend Development   |
@@ -46,7 +45,7 @@ Currently working with Node.js, TypeScript, PostgreSQL, Docker and Go while buil
 
 ---
 
-## Mindset
+<h2>🧠 Mindset</h2>
 
 > Consistency compounds.
 >
