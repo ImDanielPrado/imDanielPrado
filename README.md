@@ -12,7 +12,7 @@ Backend Engineering • System Integration • Process Automation
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,postgres,docker,go,git,github" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,postgres,docker,go" />
 </p>
 
 ## About
@@ -23,49 +23,28 @@ My interests include backend engineering, financial systems, process automation 
 
 Currently working with Node.js, TypeScript, PostgreSQL, Docker and Go while building projects that solve real-world business problems.
 
-## Core Technologies
+---
 
-### Backend
-- Node.js
-- TypeScript
-- Go
+| Core Technologies | Areas of Interest   |
+| ----------------- | ------------------- |
+| Node.js           | Backend Engineering |
+| TypeScript        | Financial Systems   |
+| PostgreSQL        | System Integration  |
+| Docker            | Process Automation  |
+| Go                | SaaS Platforms      |
+| REST APIs         | Data Infrastructure |
 
-### Database
-- PostgreSQL
-- SQL
+---
 
-### Infrastructure
-- Docker
-- GitHub
+| Engineering Principles         | Current Focus         |
+| ------------------------------ | --------------------- |
+| Build solutions, not tutorials | Backend Development   |
+| Simplicity over complexity     | Database Design       |
+| Automate repetitive work       | Software Architecture |
+| Design for maintainability     | API Design            |
+| Long-term consistency          | Scalable Systems      |
 
-### Development
-- REST APIs
-- Git
-
-## Areas of Interest
-
-- Backend Engineering
-- Financial Systems
-- System Integration
-- Process Automation
-- SaaS Platforms
-- Data Infrastructure
-
-## Engineering Principles
-
-- Build solutions, not tutorials
-- Simplicity over unnecessary complexity
-- Automate repetitive work
-- Design for maintainability
-- Focus on long-term consistency
-
-## Current Focus
-
-- Backend Development
-- Database Design
-- Software Architecture
-- API Design
-- Scalable Systems
+---
 
 ## Mindset
 
