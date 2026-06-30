@@ -26,23 +26,6 @@ I'm a software developer focused on backend engineering and scalable systems.
 
 I enjoy designing reliable applications, understanding how complex systems work, and building solutions that solve real-world problems.
 
-Currently working with:
-
-- Node.js
-- TypeScript
-- Python
-- PostgreSQL
-- Docker
-- Go
-
----
-
-## 🌎 Languages
-
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Professional Working Proficiency
-- 🇩🇪 German — Basic
-
 ---
 
 ## 🧠 Mindset
